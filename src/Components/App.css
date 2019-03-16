@@ -1,0 +1,189 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.navstuff{
+  background-color: rgb(125, 38, 175);
+  height: 80px;
+}
+
+.notiri_title{
+  font-family: 'Fredoka One', cursive;
+  color: aliceblue;
+  font-size: 140%;
+  font-weight: 100;
+  cursor: pointer;
+}
+
+.addButton{
+  font-family: 'Fredoka One', cursive;
+  font-weight: 60;
+  color:white;
+  background-color: rgb(125, 38, 175);
+  border-radius: 5px;
+  text-align: center;
+  font-size: 140%;
+  height: 35px;
+}
+
+.fredoka{
+  font-family: 'Fredoka One', cursive;
+}
+
+.coolPurple{
+  color: rgb(125, 38, 175);
+}
+
+.shareHeight{
+  height: 30px;
+}
+
+.smallSpacer{
+  height: 5px;
+}
+.bolded{
+  font-weight: bolder;
+}
+.helvetica{
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.italicized{
+  font-style: italic;
+}
+
+.fixedWidthCardButton{
+  width: 55px;
+}
+
+.cardButton{
+  height: 20px;
+  width: 50px;
+}
+.coolBlack{
+  color: black;
+}
+.formLabelFontSize{
+  font-size: 15px;
+}
+
+.headerFontSize{
+  font-size: 30px;
+}
+
+.grayedOut{
+  background-color: gray;
+}
+
+.grayedOut:hover{
+  background-color: gray;
+}
+
+.hugeFont{
+  font-size: 120px;
+}
+
+.centered{
+  position: relative;
+  text-align: center;
+}
+
+.footer{
+  background-color: rgb(125, 38, 175);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 30px;
+}
+
+.loginout{
+  color: white;
+  font-size: 120%;
+}
+
+.addButton:hover{
+  background-color: rgb(106, 242, 245);
+  cursor: pointer;
+}
+
+.noteCards{
+  background-color: rgb(248, 235, 255);
+  height: 83vh;
+  border-radius: 10px;
+}
+
+.grayedOut{
+  background-color: gray;
+}
+
+.itemFormat{
+  font-family: 'Fredoka One', cursive;  
+  color: tomato;
+}
+
+.notiri_title:hover{
+  color: violet;
+}
+
+.spacer{
+  height: 15px;
+}
+
+.vertical_plus_half{
+  color:blue;
+  width: 100%;
+  height: 200%;
+  position: absolute;
+  left: 200%;
+  top: 40%;
+}
+
+.col1{
+  color: green;
+}
+
+.main_area{
+  background-color: blue;
+  width: 50%;
+  height: 50%;
+}
+
+.function_buttons{
+  background-color:brown;
+  width: 40%;
+  height: 40%;
+}
+
+.plus_full{
+  width: 50%;
+  height: 40%;
+  color: blue;
+}
+
+.plus_button{
+  color: transparent;
+}
+
+.plus_button:hover{
+  color: transparent;
+}
+
+
